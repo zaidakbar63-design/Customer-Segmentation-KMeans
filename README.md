@@ -99,7 +99,6 @@ These clusters represent different customer spending and income patterns.
 
 8. Visualizations
 
-Elbow Method
 
 ### Elbow Method
 ![Elbow Method](elbow_method.png)
