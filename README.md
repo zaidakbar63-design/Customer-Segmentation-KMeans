@@ -78,9 +78,9 @@ K| Silhouette Score
 9| 0.457
 10| 0.443
 
-K = 5 achieved the highest observed Silhouette Score of 0.555 among the tested values.
+Result: K = 5 achieved the highest observed Silhouette Score of 0.555 among the tested values.
 
-7. Customer Segmentation Analysis
+Customer Segmentation Analysis
 
 The final model divided 200 customers into five clusters.
 
