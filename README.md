@@ -59,38 +59,41 @@ The following techniques were used to improve the clustering process:
 
 6. Model Evaluation Results
 
-Parameter| Result
-Algorithm| K-Means
-Number of Clusters| 5
-Inertia (WCSS)| 65.57
-Silhouette Score| 0.555
-Total Customers| 200
+| Parameter | Result |
+|---|---|
+| Algorithm | K-Means |
+| Number of Clusters | 5 |
+| Inertia (WCSS) | 65.57 |
+| Silhouette Score | 0.555 |
+| Total Customers | 200 |
 
-Silhouette Score Comparison
+### Silhouette Score Comparison
 
-K| Silhouette Score
-2| 0.321
-3| 0.467
-5| 0.555
-6| 0.540
-7| 0.528
-8| 0.455
-9| 0.457
-10| 0.443
+| K | Silhouette Score |
+|---|---|
+| 2 | 0.321 |
+| 3 | 0.467 |
+| 5 | 0.555 |
+| 6 | 0.540 |
+| 7 | 0.528 |
+| 8 | 0.455 |
+| 9 | 0.457 |
+| 10 | 0.443 |
 
 Result: K = 5 achieved the highest observed Silhouette Score of 0.555 among the tested values.
 
-Customer Segmentation Analysis
+### Customer Segmentation Analysis
 
-The final model divided 200 customers into five clusters.
+The final K-Means model divided 200 customers into five clusters.
 
-Cluster| Number of Customers
-0| 81
-1| 39
-2| 22
-3| 35
-4| 23
-Total| 200
+| Cluster | Number of Customers |
+|---|---|
+| 0 | 81 |
+| 1 | 39 |
+| 2 | 22 |
+| 3 | 35 |
+| 4 | 23 |
+| Total | 200 |
 
 These clusters represent different customer spending and income patterns.
 
