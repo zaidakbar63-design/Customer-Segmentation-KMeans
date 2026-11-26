@@ -98,11 +98,13 @@ These clusters represent different customer spending and income patterns.
 
 Elbow Method
 
-"Elbow Method" (elbow_method.png)
+### Elbow Method
+![Elbow Method](elbow_method.png)
+
+### Customer Segmentation
+![Customer Clusters](customer_cluster.png)
 
 Customer Segmentation Using K-Means
-
-"Customer Clusters" (customer_cluster.png)
 
 9. Project Files
 
