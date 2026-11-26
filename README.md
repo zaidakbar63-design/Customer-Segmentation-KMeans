@@ -119,10 +119,14 @@ The K-Means Clustering algorithm successfully grouped 200 customers into five cl
 
 The final Silhouette Score of 0.555 indicates a reasonable clustering structure. The project demonstrates how unsupervised machine learning can be used to understand customer behaviour and support business decision-making.
 
-Author
+## Authors
 
-Zaid Akbar
-Faiz Ahmed
-Machine Learning Theory Assignment
+1. Zaid Akbar
 
-Topic: K-Means Clustering – Customer Segmentation
+2. Faiz Ahmed
+
+## Subject
+Machine Learning Theory
+
+## Project Title
+Customer Segmentation Using K-Means Clustering
